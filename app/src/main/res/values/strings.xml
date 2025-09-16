@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Diario CdelU</string>
+    <string name="app_short_name">CdelU</string>
+    
+    <!-- Navegación -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_news">Noticias</string>
+    <string name="nav_surveys">Encuestas</string>
+    <string name="nav_lotteries">Loterías</string>
+    <string name="nav_profile">Perfil</string>
+    
+    <!-- Autenticación -->
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    
+    <!-- Feed -->
+    <string name="feed_all">Todo</string>
+    <string name="feed_news">Noticias</string>
+    <string name="feed_communications">Comunicaciones</string>
+    <string name="feed_community">Comunidad</string>
+    
+    <!-- Encuestas -->
+    <string name="survey_active">Activa</string>
+    <string name="survey_vote">Votar</string>
+    <string name="survey_results">Resultados</string>
+    <string name="survey_thanks">Gracias por participar</string>
+    
+    <!-- Loterías -->
+    <string name="lottery_free">Gratuita</string>
+    <string name="lottery_paid">De Pago</string>
+    <string name="lottery_participate">Participar</string>
+    <string name="lottery_details">Ver Detalles</string>
+    
+    <!-- Transmisión en vivo -->
+    <string name="live_on_air">En vivo</string>
+    <string name="live_facebook">Ver en Facebook</string>
+    <string name="live_comment">Comentar en Facebook</string>
+    
+    <!-- Acciones -->
+    <string name="action_create">Crear</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_like">Me gusta</string>
+    <string name="action_comment">Comentar</string>
+    
+    <!-- Estados -->
+    <string name="state_loading">Cargando...</string>
+    <string name="state_error">Error</string>
+    <string name="state_empty">No hay contenido</string>
+    <string name="state_retry">Reintentar</string>
+    
+    <!-- Temas -->
+    <string name="theme_light">Tema claro</string>
+    <string name="theme_dark">Tema oscuro</string>
+    <string name="theme_auto">Automático</string>
+</resources>
