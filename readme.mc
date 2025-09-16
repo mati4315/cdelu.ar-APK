@@ -196,3 +196,6 @@ Este proyecto está bajo la licencia MIT. Ver `LICENSE` para más detalles.
 ---
 
 **Desarrollado con ❤️ para el Diario CdelU**
+
+# cdelu.ar-APK
+version apk de mi app
